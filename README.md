@@ -1,4 +1,4 @@
-# Galeria-de-Fotos
+# Galeria de Fotos
     Este é um projeto simples de galeria de fotos que utiliza a API do Unsplash para buscar e exibir imagens de acordo com a pesquisa do usuário. 
     A interface é interativa e utiliza um campo de pesquisa em tempo real para filtrar as imagens.
   
